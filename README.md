@@ -1,5 +1,6 @@
 # CorelDrawTextFinder
-Search for Corel Draw Files containing text in folder and subfolders.
+Search for Corel Draw Files containing text in folder and subfolders. 
+Written in C# for .NET Framework 4.8. This is a console application.
 
 This is, at least for now, just a quick hack to help a friend.
 
